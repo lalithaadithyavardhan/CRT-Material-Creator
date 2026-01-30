@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CRT Web Application
 
 A web application built with Vanilla JavaScript that leverages `html2pdf.js` to convert HTML content into downloadable PDF documents.
